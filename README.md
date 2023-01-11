@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nawazkh
-- 👀 I’m interested in distributed systems and cool stuff at scale.
-- 💞️ I’m looking to collaborate on CAPI and anything cool!
+- 👀 I’m interested in cool stuff! If it's mechatronics, you have my full attention.
+- 💞️ I’m looking to collaborate on CAPZ, CAPI and any electronic projects!
 
 <!---
 nawazkh/nawazkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
